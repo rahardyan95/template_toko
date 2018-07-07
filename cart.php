@@ -86,7 +86,7 @@ include 'common/header.php';
 <script src="js/modernizr.custom.js"></script>
 	<!-- Custom-JavaScript-File-Links --> 
 	<!-- cart-js -->
-	<script src="js/minicart.min.js"></script>
+	<script src="js/minicart.js"></script>
 <script>
 	// Mini Cart
 	paypal.minicart.render({
